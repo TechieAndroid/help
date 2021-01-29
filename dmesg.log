@@ -1,0 +1,1843 @@
+[ 3924.083404] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3924.092395] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3924.092400] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3924.092434] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3924.096430] usb 3-2: USB disconnect, device number 116
+[ 3924.505773] usb 3-2: new full-speed USB device number 117 using xhci_hcd
+[ 3924.661394] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3924.661399] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3924.671438] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3924.671443] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3924.671474] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3924.673607] usb 3-2: USB disconnect, device number 117
+[ 3925.061800] usb 3-2: new full-speed USB device number 118 using xhci_hcd
+[ 3925.217375] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3925.217381] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3925.226408] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3925.226412] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3925.226439] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3925.228551] usb 3-2: USB disconnect, device number 118
+[ 3925.640760] usb 3-2: new full-speed USB device number 119 using xhci_hcd
+[ 3925.796372] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3925.796379] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3925.805432] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3925.805436] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3925.805485] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3925.807590] usb 3-2: USB disconnect, device number 119
+[ 3926.197769] usb 3-2: new full-speed USB device number 120 using xhci_hcd
+[ 3926.353402] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3926.353407] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3926.363391] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3926.363395] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3926.363421] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3926.365604] usb 3-2: USB disconnect, device number 120
+[ 3926.777762] usb 3-2: new full-speed USB device number 121 using xhci_hcd
+[ 3926.933410] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3926.933414] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3926.942432] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3926.942436] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3926.942482] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3926.944617] usb 3-2: USB disconnect, device number 121
+[ 3927.333768] usb 3-2: new full-speed USB device number 122 using xhci_hcd
+[ 3927.489360] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3927.489362] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3927.498424] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3927.498427] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3927.498467] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3927.500611] usb 3-2: USB disconnect, device number 122
+[ 3927.913123] usb 3-2: new full-speed USB device number 123 using xhci_hcd
+[ 3928.068406] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3928.068411] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3928.077407] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3928.077412] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3928.077451] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3928.079630] usb 3-2: USB disconnect, device number 123
+[ 3928.470756] usb 3-2: new full-speed USB device number 124 using xhci_hcd
+[ 3928.626409] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3928.626414] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3928.635457] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3928.635462] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3928.635519] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3928.637598] usb 3-2: USB disconnect, device number 124
+[ 3929.049729] usb 3-2: new full-speed USB device number 125 using xhci_hcd
+[ 3929.205422] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3929.205427] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3929.214404] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3929.214408] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3929.214441] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3929.216611] usb 3-2: USB disconnect, device number 125
+[ 3929.606716] usb 3-2: new full-speed USB device number 126 using xhci_hcd
+[ 3929.762385] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3929.762390] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3929.771415] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3929.771420] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3929.771459] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3929.773615] usb 3-2: USB disconnect, device number 126
+[ 3930.184751] usb 3-2: new full-speed USB device number 127 using xhci_hcd
+[ 3930.341439] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3930.341444] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3930.350402] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3930.350407] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3930.350443] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3930.352630] usb 3-2: USB disconnect, device number 127
+[ 3930.741703] usb 3-2: new full-speed USB device number 3 using xhci_hcd
+[ 3930.888379] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3930.888384] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3930.898437] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3930.898440] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3930.898477] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3930.900639] usb 3-2: USB disconnect, device number 3
+[ 3931.312823] usb 3-2: new full-speed USB device number 5 using xhci_hcd
+[ 3931.468871] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3931.468877] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3931.478418] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3931.478420] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3931.478447] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3931.480599] usb 3-2: USB disconnect, device number 5
+[ 3931.873700] usb 3-2: new full-speed USB device number 6 using xhci_hcd
+[ 3932.029392] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3932.029398] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3932.038424] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3932.038430] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3932.038470] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3932.040625] usb 3-2: USB disconnect, device number 6
+[ 3932.430738] usb 3-2: new full-speed USB device number 7 using xhci_hcd
+[ 3932.586881] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3932.586887] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3932.596430] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3932.596433] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3932.596472] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3932.598617] usb 3-2: USB disconnect, device number 7
+[ 3933.008679] usb 3-2: new full-speed USB device number 8 using xhci_hcd
+[ 3933.164426] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3933.164430] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3933.173465] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3933.173469] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3933.173519] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3933.175637] usb 3-2: USB disconnect, device number 8
+[ 3933.567131] usb 3-2: new full-speed USB device number 9 using xhci_hcd
+[ 3933.722393] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3933.722398] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3933.731465] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3933.731469] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3933.731508] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3933.733633] usb 3-2: USB disconnect, device number 9
+[ 3934.145665] usb 3-2: new full-speed USB device number 10 using xhci_hcd
+[ 3934.301400] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3934.301405] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3934.310433] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3934.310437] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3934.310472] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3934.312637] usb 3-2: USB disconnect, device number 10
+[ 3934.700670] usb 3-2: new full-speed USB device number 11 using xhci_hcd
+[ 3934.856397] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3934.856399] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3934.865442] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3934.865444] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3934.865476] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3934.867832] usb 3-2: USB disconnect, device number 11
+[ 3935.279668] usb 3-2: new full-speed USB device number 12 using xhci_hcd
+[ 3935.435440] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3935.435445] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3935.444442] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3935.444447] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3935.444496] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3935.446629] usb 3-2: USB disconnect, device number 12
+[ 3935.858661] usb 3-2: new full-speed USB device number 13 using xhci_hcd
+[ 3936.014406] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3936.014411] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3936.023428] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3936.023430] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3936.023474] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3936.025631] usb 3-2: USB disconnect, device number 13
+[ 3936.414647] usb 3-2: new full-speed USB device number 14 using xhci_hcd
+[ 3936.570437] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3936.570443] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3936.579446] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3936.579451] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3936.579490] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3936.581625] usb 3-2: USB disconnect, device number 14
+[ 3936.994641] usb 3-2: new full-speed USB device number 15 using xhci_hcd
+[ 3937.150404] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3937.150410] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3937.159438] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3937.159443] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3937.159476] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3937.161672] usb 3-2: USB disconnect, device number 15
+[ 3937.550647] usb 3-2: new full-speed USB device number 16 using xhci_hcd
+[ 3937.706766] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3937.706771] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3937.716451] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3937.716455] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3937.716486] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3937.718649] usb 3-2: USB disconnect, device number 16
+[ 3938.131630] usb 3-2: new full-speed USB device number 17 using xhci_hcd
+[ 3938.287443] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3938.287448] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3938.297459] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3938.297464] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3938.297499] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3938.299616] usb 3-2: USB disconnect, device number 17
+[ 3938.687122] usb 3-2: new full-speed USB device number 18 using xhci_hcd
+[ 3938.842624] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3938.842629] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3938.851460] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3938.851464] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3938.851513] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3938.853662] usb 3-2: USB disconnect, device number 18
+[ 3939.265624] usb 3-2: new full-speed USB device number 19 using xhci_hcd
+[ 3939.421458] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3939.421463] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3939.430460] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3939.430465] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3939.430511] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3939.432636] usb 3-2: USB disconnect, device number 19
+[ 3939.820672] usb 3-2: new full-speed USB device number 20 using xhci_hcd
+[ 3939.976453] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3939.976458] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3939.985469] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3939.985474] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3939.985520] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3939.987672] usb 3-2: USB disconnect, device number 20
+[ 3940.374610] usb 3-2: new full-speed USB device number 21 using xhci_hcd
+[ 3940.530424] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3940.530429] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3940.539449] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3940.539453] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3940.539486] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3940.541662] usb 3-2: USB disconnect, device number 21
+[ 3940.953620] usb 3-2: new full-speed USB device number 22 using xhci_hcd
+[ 3941.109925] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3941.109930] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3941.119464] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3941.119469] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3941.119515] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3941.121658] usb 3-2: USB disconnect, device number 22
+[ 3941.510596] usb 3-2: new full-speed USB device number 23 using xhci_hcd
+[ 3941.666920] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3941.666925] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3941.676448] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3941.676450] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3941.676476] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3941.678684] usb 3-2: USB disconnect, device number 23
+[ 3942.089630] usb 3-2: new full-speed USB device number 24 using xhci_hcd
+[ 3942.245465] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3942.245470] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3942.255470] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3942.255475] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3942.255520] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3942.257672] usb 3-2: USB disconnect, device number 24
+[ 3942.646587] usb 3-2: new full-speed USB device number 25 using xhci_hcd
+[ 3942.802919] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3942.802925] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3942.812453] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3942.812455] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3942.812481] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3942.814690] usb 3-2: USB disconnect, device number 25
+[ 3943.224612] usb 3-2: new full-speed USB device number 26 using xhci_hcd
+[ 3943.380458] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3943.380466] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3943.389469] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3943.389473] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3943.389495] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3943.391637] usb 3-2: USB disconnect, device number 26
+[ 3943.781568] usb 3-2: new full-speed USB device number 27 using xhci_hcd
+[ 3943.937942] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3943.937948] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3943.947497] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3943.947501] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3943.947541] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3943.949658] usb 3-2: USB disconnect, device number 27
+[ 3944.360044] usb 3-2: new full-speed USB device number 28 using xhci_hcd
+[ 3944.516433] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3944.516438] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3944.525498] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3944.525503] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3944.525649] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3944.527930] usb 3-2: USB disconnect, device number 28
+[ 3944.918037] usb 3-2: new full-speed USB device number 29 using xhci_hcd
+[ 3945.073474] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3945.073479] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3945.083500] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3945.083505] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3945.083538] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3945.085684] usb 3-2: USB disconnect, device number 29
+[ 3945.497552] usb 3-2: new full-speed USB device number 30 using xhci_hcd
+[ 3945.653437] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3945.653442] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3945.662498] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3945.662502] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3945.662640] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3945.664683] usb 3-2: USB disconnect, device number 30
+[ 3946.054572] usb 3-2: new full-speed USB device number 31 using xhci_hcd
+[ 3946.210956] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3946.210962] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3946.220502] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3946.220508] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3946.220661] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3946.222687] usb 3-2: USB disconnect, device number 31
+[ 3946.614586] usb 3-2: new full-speed USB device number 32 using xhci_hcd
+[ 3946.770478] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3946.770483] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3946.779484] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3946.779487] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3946.779532] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3946.781685] usb 3-2: USB disconnect, device number 32
+[ 3947.193544] usb 3-2: new full-speed USB device number 33 using xhci_hcd
+[ 3947.349479] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3947.349484] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3947.358473] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3947.358476] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3947.358516] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3947.360695] usb 3-2: USB disconnect, device number 33
+[ 3947.750531] usb 3-2: new full-speed USB device number 34 using xhci_hcd
+[ 3947.906479] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3947.906484] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3947.915522] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3947.915533] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3947.915578] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3947.917774] usb 3-2: USB disconnect, device number 34
+[ 3948.328999] usb 3-2: new full-speed USB device number 35 using xhci_hcd
+[ 3948.484984] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3948.484990] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3948.494476] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3948.494481] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3948.494625] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3948.496681] usb 3-2: USB disconnect, device number 35
+[ 3948.886557] usb 3-2: new full-speed USB device number 36 using xhci_hcd
+[ 3949.042455] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3949.042460] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3949.051517] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3949.051522] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3949.051557] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3949.053703] usb 3-2: USB disconnect, device number 36
+[ 3949.464547] usb 3-2: new full-speed USB device number 37 using xhci_hcd
+[ 3949.620525] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3949.620530] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3949.629493] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3949.629505] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3949.629556] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3949.633970] usb 3-2: USB disconnect, device number 37
+[ 3950.021546] usb 3-2: new full-speed USB device number 38 using xhci_hcd
+[ 3950.178489] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3950.178504] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3950.187487] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3950.187506] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3950.187560] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3950.191010] usb 3-2: USB disconnect, device number 38
+[ 3950.601982] usb 3-2: new full-speed USB device number 39 using xhci_hcd
+[ 3950.758503] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3950.758508] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3950.767504] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3950.767509] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3950.767566] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3950.769697] usb 3-2: USB disconnect, device number 39
+[ 3951.158510] usb 3-2: new full-speed USB device number 40 using xhci_hcd
+[ 3951.315506] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3951.315511] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3951.324543] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3951.324547] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3951.324594] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3951.326700] usb 3-2: USB disconnect, device number 40
+[ 3951.717538] usb 3-2: new full-speed USB device number 41 using xhci_hcd
+[ 3951.875938] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3951.875943] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3951.885524] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3951.885529] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3951.885580] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3951.887700] usb 3-2: USB disconnect, device number 41
+[ 3952.278495] usb 3-2: new full-speed USB device number 42 using xhci_hcd
+[ 3952.436498] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3952.436503] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3952.445499] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3952.445505] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3952.445566] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3952.447684] usb 3-2: USB disconnect, device number 42
+[ 3952.837519] usb 3-2: new full-speed USB device number 43 using xhci_hcd
+[ 3952.995482] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3952.995487] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3953.004500] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3953.004504] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3953.004553] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3953.006654] usb 3-2: USB disconnect, device number 43
+[ 3953.397514] usb 3-2: new full-speed USB device number 44 using xhci_hcd
+[ 3953.555508] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3953.555513] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3953.564516] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3953.564520] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3953.564555] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3953.566727] usb 3-2: USB disconnect, device number 44
+[ 3953.571808] r8152 2-1:1.0 enp4s0f3u1: Get ether addr fail
+[ 3953.571841] usb 2-1: USB disconnect, device number 2
+[ 3953.617272] kauditd_printk_skb: 1 callbacks suppressed
+[ 3953.617276] audit: type=1130 audit(1610824005.040:85): pid=1 uid=0 auid=4294967295 ses=4294967295 msg='unit=NetworkManager-dispatcher comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+[ 3953.957512] usb 3-2: new full-speed USB device number 45 using xhci_hcd
+[ 3954.115471] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3954.115477] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3954.124508] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3954.124513] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3954.124551] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3954.126881] usb 3-2: USB disconnect, device number 45
+[ 3954.517510] usb 3-2: new full-speed USB device number 46 using xhci_hcd
+[ 3954.675514] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3954.675518] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3954.684542] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3954.684546] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3954.684614] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3954.686706] usb 3-2: USB disconnect, device number 46
+[ 3955.078505] usb 3-2: new full-speed USB device number 47 using xhci_hcd
+[ 3955.236538] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3955.236543] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3955.245492] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3955.245497] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3955.245527] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3955.247676] usb 3-2: USB disconnect, device number 47
+[ 3955.639072] usb 3-2: new full-speed USB device number 48 using xhci_hcd
+[ 3955.796510] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3955.796514] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3955.805534] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3955.805539] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3955.805584] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3955.807700] usb 3-2: USB disconnect, device number 48
+[ 3956.197447] usb 3-2: new full-speed USB device number 49 using xhci_hcd
+[ 3956.356069] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3956.356074] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3956.365512] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3956.365515] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3956.365551] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3956.367703] usb 3-2: USB disconnect, device number 49
+[ 3956.758037] usb 3-2: new full-speed USB device number 50 using xhci_hcd
+[ 3956.916053] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3956.916059] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3956.925519] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3956.925522] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3956.925556] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3956.929014] usb 3-2: USB disconnect, device number 50
+[ 3957.318948] usb 3-2: new full-speed USB device number 51 using xhci_hcd
+[ 3957.476540] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3957.476545] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3957.485538] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3957.485542] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3957.485572] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3957.487710] usb 3-2: USB disconnect, device number 51
+[ 3957.878486] usb 3-2: new full-speed USB device number 52 using xhci_hcd
+[ 3958.037092] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3958.037097] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3958.046556] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3958.046561] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3958.046607] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3958.053107] usb 3-2: USB disconnect, device number 52
+[ 3958.440026] usb 3-2: new full-speed USB device number 53 using xhci_hcd
+[ 3958.597531] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3958.597536] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3958.606559] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3958.606563] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3958.606603] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3958.612641] usb 3-2: USB disconnect, device number 53
+[ 3958.997914] usb 3-2: new full-speed USB device number 54 using xhci_hcd
+[ 3959.155493] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3959.155498] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3959.164524] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3959.164529] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3959.164562] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3959.166756] usb 3-2: USB disconnect, device number 54
+[ 3959.560469] usb 3-2: new full-speed USB device number 55 using xhci_hcd
+[ 3959.719028] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3959.719034] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3959.728530] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3959.728534] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3959.728567] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3959.730732] usb 3-2: USB disconnect, device number 55
+[ 3960.119468] usb 3-2: new full-speed USB device number 56 using xhci_hcd
+[ 3960.277969] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3960.277974] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3960.287550] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3960.287553] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3960.287617] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3960.289774] usb 3-2: USB disconnect, device number 56
+[ 3960.678449] usb 3-2: new full-speed USB device number 57 using xhci_hcd
+[ 3960.837101] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3960.837107] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3960.846513] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3960.846515] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3960.846537] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3960.848753] usb 3-2: USB disconnect, device number 57
+[ 3961.239015] usb 3-2: new full-speed USB device number 58 using xhci_hcd
+[ 3961.396532] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3961.396537] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3961.405542] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3961.405546] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3961.405607] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3961.407715] usb 3-2: USB disconnect, device number 58
+[ 3961.797440] usb 3-2: new full-speed USB device number 59 using xhci_hcd
+[ 3961.956985] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3961.956991] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3961.966561] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3961.966565] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3961.966651] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3961.968713] usb 3-2: USB disconnect, device number 59
+[ 3962.357425] usb 3-2: new full-speed USB device number 60 using xhci_hcd
+[ 3962.515546] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3962.515551] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3962.524608] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3962.524612] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3962.524652] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3962.526741] usb 3-2: USB disconnect, device number 60
+[ 3962.917435] usb 3-2: new full-speed USB device number 61 using xhci_hcd
+[ 3963.075060] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3963.075066] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3963.084562] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3963.084567] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3963.084607] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3963.086750] usb 3-2: USB disconnect, device number 61
+[ 3963.478446] usb 3-2: new full-speed USB device number 62 using xhci_hcd
+[ 3963.500077] audit: type=1131 audit(1610824014.923:86): pid=1 uid=0 auid=4294967295 ses=4294967295 msg='unit=NetworkManager-dispatcher comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+[ 3963.637132] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3963.637138] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3963.646534] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3963.646539] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3963.646566] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3963.648764] usb 3-2: USB disconnect, device number 62
+[ 3964.038994] usb 3-2: new full-speed USB device number 63 using xhci_hcd
+[ 3964.195561] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3964.195567] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3964.204558] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3964.204563] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3964.204609] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3964.208606] usb 3-2: USB disconnect, device number 63
+[ 3964.597415] usb 3-2: new full-speed USB device number 64 using xhci_hcd
+[ 3964.754545] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3964.754550] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3964.763616] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3964.763620] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3964.763654] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3964.765941] usb 3-2: USB disconnect, device number 64
+[ 3965.176970] usb 3-2: new full-speed USB device number 65 using xhci_hcd
+[ 3965.335118] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3965.335123] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3965.344550] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3965.344553] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3965.344579] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3965.346744] usb 3-2: USB disconnect, device number 65
+[ 3965.734964] usb 3-2: new full-speed USB device number 66 using xhci_hcd
+[ 3965.891556] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3965.891561] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3965.900588] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3965.900602] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3965.900646] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3965.902780] usb 3-2: USB disconnect, device number 66
+[ 3966.295366] usb 3-2: new full-speed USB device number 67 using xhci_hcd
+[ 3966.451547] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3966.451553] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3966.460543] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3966.460546] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3966.460607] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3966.462765] usb 3-2: USB disconnect, device number 67
+[ 3966.853952] usb 3-2: new full-speed USB device number 68 using xhci_hcd
+[ 3967.010673] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3967.010678] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3967.019573] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3967.019579] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3967.019654] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3967.021780] usb 3-2: USB disconnect, device number 68
+[ 3967.433398] usb 3-2: new full-speed USB device number 69 using xhci_hcd
+[ 3967.591076] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3967.591082] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3967.600577] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3967.600581] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3967.600650] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3967.603362] usb 3-2: USB disconnect, device number 69
+[ 3967.990366] usb 3-2: new full-speed USB device number 70 using xhci_hcd
+[ 3968.146566] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3968.146571] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3968.155591] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3968.155595] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3968.155630] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3968.157830] usb 3-2: USB disconnect, device number 70
+[ 3968.569695] usb 3-2: new full-speed USB device number 71 using xhci_hcd
+[ 3968.727568] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3968.727573] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3968.736566] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3968.736569] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3968.736612] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3968.738756] usb 3-2: USB disconnect, device number 71
+[ 3969.125675] usb 3-2: new full-speed USB device number 72 using xhci_hcd
+[ 3969.284137] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3969.284142] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3969.293575] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3969.293578] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3969.293606] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3969.295780] usb 3-2: USB disconnect, device number 72
+[ 3969.686928] usb 3-2: new full-speed USB device number 73 using xhci_hcd
+[ 3969.844085] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3969.844090] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3969.853575] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3969.853578] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3969.853603] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3969.855750] usb 3-2: USB disconnect, device number 73
+[ 3970.245311] usb 3-2: new full-speed USB device number 74 using xhci_hcd
+[ 3970.402143] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3970.402149] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3970.412591] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3970.412595] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3970.412628] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3970.414798] usb 3-2: USB disconnect, device number 74
+[ 3970.807921] usb 3-2: new full-speed USB device number 75 using xhci_hcd
+[ 3970.965577] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3970.965582] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3970.974587] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3970.974590] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3970.974619] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3970.977529] usb 3-2: USB disconnect, device number 75
+[ 3971.365859] usb 3-2: new full-speed USB device number 76 using xhci_hcd
+[ 3971.521535] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3971.521540] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3971.530635] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3971.530640] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3971.530703] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3971.532751] usb 3-2: USB disconnect, device number 76
+[ 3971.945336] usb 3-2: new full-speed USB device number 77 using xhci_hcd
+[ 3972.100602] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3972.100608] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3972.109588] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3972.109592] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3972.109973] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3972.112078] usb 3-2: USB disconnect, device number 77
+[ 3972.502893] usb 3-2: new full-speed USB device number 78 using xhci_hcd
+[ 3972.659582] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3972.659587] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3972.668599] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3972.668604] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3972.668649] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3972.670799] usb 3-2: USB disconnect, device number 78
+[ 3973.062345] usb 3-2: new full-speed USB device number 79 using xhci_hcd
+[ 3973.219849] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3973.219854] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3973.228628] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3973.228632] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3973.228703] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3973.230774] usb 3-2: USB disconnect, device number 79
+[ 3973.621331] usb 3-2: new full-speed USB device number 80 using xhci_hcd
+[ 3973.779017] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3973.779023] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3973.788592] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3973.788595] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3973.788645] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3973.790784] usb 3-2: USB disconnect, device number 80
+[ 3974.181316] usb 3-2: new full-speed USB device number 81 using xhci_hcd
+[ 3974.337102] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3974.337107] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3974.346572] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3974.346576] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3974.346606] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3974.348792] usb 3-2: USB disconnect, device number 81
+[ 3974.760317] usb 3-2: new full-speed USB device number 82 using xhci_hcd
+[ 3974.917031] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3974.917037] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3974.926631] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3974.926636] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3974.926678] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3974.928764] usb 3-2: USB disconnect, device number 82
+[ 3975.318863] usb 3-2: new full-speed USB device number 83 using xhci_hcd
+[ 3975.475584] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3975.475589] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3975.484594] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3975.484596] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3975.484634] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3975.486770] usb 3-2: USB disconnect, device number 83
+[ 3975.877306] usb 3-2: new full-speed USB device number 84 using xhci_hcd
+[ 3976.032587] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3976.032592] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3976.041592] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3976.041595] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3976.041625] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3976.043775] usb 3-2: USB disconnect, device number 84
+[ 3976.430249] usb 3-2: new full-speed USB device number 85 using xhci_hcd
+[ 3976.586596] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3976.586601] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3976.595632] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3976.595638] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3976.595942] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3976.597805] usb 3-2: USB disconnect, device number 85
+[ 3977.008298] usb 3-2: new full-speed USB device number 86 using xhci_hcd
+[ 3977.165122] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3977.165128] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3977.174602] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3977.174608] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3977.174635] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3977.176766] usb 3-2: USB disconnect, device number 86
+[ 3977.565284] usb 3-2: new full-speed USB device number 87 using xhci_hcd
+[ 3977.720563] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3977.720568] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3977.729582] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3977.729586] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3977.729618] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3977.731821] usb 3-2: USB disconnect, device number 87
+[ 3978.144279] usb 3-2: new full-speed USB device number 88 using xhci_hcd
+[ 3978.301168] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3978.301174] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3978.310625] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3978.310629] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3978.310673] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3978.313585] usb 3-2: USB disconnect, device number 88
+[ 3978.701226] usb 3-2: new full-speed USB device number 89 using xhci_hcd
+[ 3978.856590] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3978.856594] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3978.865595] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3978.865597] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3978.865643] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3978.867838] usb 3-2: USB disconnect, device number 89
+[ 3979.254832] usb 3-2: new full-speed USB device number 90 using xhci_hcd
+[ 3979.412828] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3979.412834] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3979.421652] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3979.421654] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3979.421685] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3979.423809] usb 3-2: USB disconnect, device number 90
+[ 3979.813218] usb 3-2: new full-speed USB device number 91 using xhci_hcd
+[ 3979.968615] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3979.968620] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3979.977647] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3979.977651] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3979.977698] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3979.979809] usb 3-2: USB disconnect, device number 91
+[ 3980.393200] usb 3-2: new full-speed USB device number 92 using xhci_hcd
+[ 3980.548620] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3980.548625] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3980.557604] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3980.557609] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3980.557684] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3980.559809] usb 3-2: USB disconnect, device number 92
+[ 3980.950248] usb 3-2: new full-speed USB device number 93 using xhci_hcd
+[ 3981.105596] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3981.105603] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3981.114626] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3981.114630] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3981.114662] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3981.116802] usb 3-2: USB disconnect, device number 93
+[ 3981.528191] usb 3-2: new full-speed USB device number 94 using xhci_hcd
+[ 3981.683607] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3981.683612] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3981.692625] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3981.692628] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3981.692663] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3981.695585] usb 3-2: USB disconnect, device number 94
+[ 3982.086190] usb 3-2: new full-speed USB device number 95 using xhci_hcd
+[ 3982.241611] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3982.241616] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3982.250607] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3982.250612] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3982.250646] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3982.252804] usb 3-2: USB disconnect, device number 95
+[ 3982.664187] usb 3-2: new full-speed USB device number 96 using xhci_hcd
+[ 3982.819615] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3982.819620] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3982.828648] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3982.828656] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3982.828695] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3982.830801] usb 3-2: USB disconnect, device number 96
+[ 3983.221213] usb 3-2: new full-speed USB device number 97 using xhci_hcd
+[ 3983.377587] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3983.377593] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3983.386609] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3983.386613] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3983.386647] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3983.388840] usb 3-2: USB disconnect, device number 97
+[ 3983.801211] usb 3-2: new full-speed USB device number 98 using xhci_hcd
+[ 3983.956581] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3983.956584] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3983.965598] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3983.965602] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3983.965635] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3983.967814] usb 3-2: USB disconnect, device number 98
+[ 3984.357162] usb 3-2: new full-speed USB device number 99 using xhci_hcd
+[ 3984.512581] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3984.512584] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3984.521610] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3984.521613] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3984.521655] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3984.525291] usb 3-2: USB disconnect, device number 99
+[ 3984.936164] usb 3-2: new full-speed USB device number 100 using xhci_hcd
+[ 3985.091577] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3985.091580] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3985.100605] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3985.100611] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3985.100651] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3985.102977] usb 3-2: USB disconnect, device number 100
+[ 3985.493197] usb 3-2: new full-speed USB device number 101 using xhci_hcd
+[ 3985.649625] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3985.649629] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3985.658649] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3985.658654] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3985.658739] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3985.660834] usb 3-2: USB disconnect, device number 101
+[ 3986.072163] usb 3-2: new full-speed USB device number 102 using xhci_hcd
+[ 3986.229651] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3986.229656] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3986.238621] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3986.238625] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3986.238660] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3986.240949] usb 3-2: USB disconnect, device number 102
+[ 3986.632155] usb 3-2: new full-speed USB device number 103 using xhci_hcd
+[ 3986.790598] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3986.790602] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3986.799836] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3986.799839] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3986.799874] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3986.804009] usb 3-2: USB disconnect, device number 103
+[ 3987.190152] usb 3-2: new full-speed USB device number 104 using xhci_hcd
+[ 3987.345592] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3987.345595] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3987.354627] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3987.354630] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3987.354660] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3987.356827] usb 3-2: USB disconnect, device number 104
+[ 3987.768175] usb 3-2: new full-speed USB device number 105 using xhci_hcd
+[ 3987.923636] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3987.923641] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3987.932640] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3987.932645] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3987.932683] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3987.934861] usb 3-2: USB disconnect, device number 105
+[ 3988.326666] usb 3-2: new full-speed USB device number 106 using xhci_hcd
+[ 3988.484206] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3988.484211] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3988.493636] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3988.493640] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3988.493676] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3988.500024] usb 3-2: USB disconnect, device number 106
+[ 3988.885152] usb 3-2: new full-speed USB device number 107 using xhci_hcd
+[ 3989.042160] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3989.042166] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3989.051669] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3989.051673] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3989.051726] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3989.053835] usb 3-2: USB disconnect, device number 107
+[ 3989.466118] usb 3-2: new full-speed USB device number 108 using xhci_hcd
+[ 3989.622614] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3989.622619] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3989.638724] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3989.638729] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3989.638763] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3989.640844] usb 3-2: USB disconnect, device number 108
+[ 3990.029127] usb 3-2: new full-speed USB device number 109 using xhci_hcd
+[ 3990.184766] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3990.184772] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3990.193699] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3990.193703] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3990.193779] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3990.195835] usb 3-2: USB disconnect, device number 109
+[ 3990.583105] usb 3-2: new full-speed USB device number 110 using xhci_hcd
+[ 3990.738644] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3990.738648] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3990.747671] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3990.747675] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3990.747709] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3990.749846] usb 3-2: USB disconnect, device number 110
+[ 3991.161109] usb 3-2: new full-speed USB device number 111 using xhci_hcd
+[ 3991.317639] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3991.317644] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3991.326686] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3991.326689] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3991.326722] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3991.328818] usb 3-2: USB disconnect, device number 111
+[ 3991.719164] usb 3-2: new full-speed USB device number 112 using xhci_hcd
+[ 3991.874627] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3991.874632] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3991.883724] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3991.883729] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3991.883773] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3991.885939] usb 3-2: USB disconnect, device number 112
+[ 3992.298095] usb 3-2: new full-speed USB device number 113 using xhci_hcd
+[ 3992.455157] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3992.455161] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3992.464690] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3992.464694] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3992.464740] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3992.466862] usb 3-2: USB disconnect, device number 113
+[ 3992.854106] usb 3-2: new full-speed USB device number 114 using xhci_hcd
+[ 3993.009691] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3993.009700] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3993.018677] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3993.018681] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3993.018724] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3993.021018] usb 3-2: USB disconnect, device number 114
+[ 3993.433131] usb 3-2: new full-speed USB device number 115 using xhci_hcd
+[ 3993.590173] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3993.590179] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3993.599718] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3993.599722] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3993.599754] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3993.601841] usb 3-2: USB disconnect, device number 115
+[ 3993.993069] usb 3-2: new full-speed USB device number 116 using xhci_hcd
+[ 3994.149663] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3994.149668] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3994.158628] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3994.158631] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3994.158656] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3994.160840] usb 3-2: USB disconnect, device number 116
+[ 3994.550692] usb 3-2: new full-speed USB device number 117 using xhci_hcd
+[ 3994.708228] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3994.708233] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3994.717665] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3994.717670] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3994.717727] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3994.719829] usb 3-2: USB disconnect, device number 117
+[ 3995.109417] usb 3-2: new full-speed USB device number 118 using xhci_hcd
+[ 3995.265230] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3995.265235] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3995.274743] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3995.274748] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3995.274777] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3995.276874] usb 3-2: USB disconnect, device number 118
+[ 3995.688053] usb 3-2: new full-speed USB device number 119 using xhci_hcd
+[ 3995.845255] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3995.845260] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3995.854677] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3995.854681] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3995.854717] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3995.856878] usb 3-2: USB disconnect, device number 119
+[ 3996.248056] usb 3-2: new full-speed USB device number 120 using xhci_hcd
+[ 3996.403624] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3996.403629] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3996.412672] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3996.412676] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3996.412732] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3996.414920] usb 3-2: USB disconnect, device number 120
+[ 3996.806104] usb 3-2: new full-speed USB device number 121 using xhci_hcd
+[ 3996.962662] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3996.962666] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3996.971707] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3996.971712] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3996.971881] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3996.973863] usb 3-2: USB disconnect, device number 121
+[ 3997.385653] usb 3-2: new full-speed USB device number 122 using xhci_hcd
+[ 3997.541691] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3997.541696] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3997.550690] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3997.550694] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3997.550739] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3997.552891] usb 3-2: USB disconnect, device number 122
+[ 3997.942643] usb 3-2: new full-speed USB device number 123 using xhci_hcd
+[ 3998.098677] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3998.098682] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3998.107716] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3998.107719] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3998.107757] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3998.110937] usb 3-2: USB disconnect, device number 123
+[ 3998.521031] usb 3-2: new full-speed USB device number 124 using xhci_hcd
+[ 3998.678239] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3998.678244] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3998.687772] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3998.687777] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3998.687815] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3998.689875] usb 3-2: USB disconnect, device number 124
+[ 3999.079046] usb 3-2: new full-speed USB device number 125 using xhci_hcd
+[ 3999.235687] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3999.235692] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3999.244722] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3999.244726] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3999.244804] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3999.246854] usb 3-2: USB disconnect, device number 125
+[ 3999.637231] usb 3-2: new full-speed USB device number 126 using xhci_hcd
+[ 3999.794075] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 3999.794082] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 3999.803707] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 3999.803710] Bluetooth: hci0: Intel Read version failed (-22)
+[ 3999.803777] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 3999.805931] usb 3-2: USB disconnect, device number 126
+[ 4000.216636] usb 3-2: new full-speed USB device number 127 using xhci_hcd
+[ 4000.374228] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4000.374233] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4000.383702] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4000.383706] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4000.383758] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4000.385888] usb 3-2: USB disconnect, device number 127
+[ 4000.773622] usb 3-2: new full-speed USB device number 3 using xhci_hcd
+[ 4000.932202] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4000.932208] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4000.941699] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4000.941701] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4000.941739] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4000.943943] usb 3-2: USB disconnect, device number 3
+[ 4001.334437] usb 3-2: new full-speed USB device number 5 using xhci_hcd
+[ 4001.490700] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4001.490705] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4001.499743] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4001.499748] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4001.499786] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4001.501904] usb 3-2: USB disconnect, device number 5
+[ 4001.913998] usb 3-2: new full-speed USB device number 6 using xhci_hcd
+[ 4002.071217] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4002.071222] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4002.080706] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4002.080710] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4002.080754] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4002.083619] usb 3-2: USB disconnect, device number 6
+[ 4002.471000] usb 3-2: new full-speed USB device number 7 using xhci_hcd
+[ 4002.626712] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4002.626718] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4002.635706] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4002.635710] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4002.635739] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4002.637938] usb 3-2: USB disconnect, device number 7
+[ 4003.049039] usb 3-2: new full-speed USB device number 8 using xhci_hcd
+[ 4003.204691] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4003.204697] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4003.213746] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4003.213750] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4003.213795] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4003.215916] usb 3-2: USB disconnect, device number 8
+[ 4003.607984] usb 3-2: new full-speed USB device number 9 using xhci_hcd
+[ 4003.766255] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4003.766260] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4003.775684] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4003.775689] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4003.775728] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4003.777895] usb 3-2: USB disconnect, device number 9
+[ 4004.165973] usb 3-2: new full-speed USB device number 10 using xhci_hcd
+[ 4004.322148] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4004.322154] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4004.331711] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4004.331715] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4004.331753] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4004.333868] usb 3-2: USB disconnect, device number 10
+[ 4004.745972] usb 3-2: new full-speed USB device number 11 using xhci_hcd
+[ 4004.901659] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4004.901662] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4004.910671] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4004.910675] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4004.910702] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4004.912905] usb 3-2: USB disconnect, device number 11
+[ 4004.923676] audit: type=1334 audit(1610824056.347:87): prog-id=22 op=LOAD
+[ 4004.923718] audit: type=1334 audit(1610824056.347:88): prog-id=23 op=LOAD
+[ 4005.009851] audit: type=1130 audit(1610824056.433:89): pid=1 uid=0 auid=4294967295 ses=4294967295 msg='unit=systemd-hostnamed comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+[ 4005.302988] usb 3-2: new full-speed USB device number 12 using xhci_hcd
+[ 4005.458709] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4005.458714] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4005.467814] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4005.467856] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4005.467907] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4005.469898] usb 3-2: USB disconnect, device number 12
+[ 4005.880005] usb 3-2: new full-speed USB device number 13 using xhci_hcd
+[ 4006.035704] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4006.035709] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4006.044682] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4006.044685] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4006.044729] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4006.047047] usb 3-2: USB disconnect, device number 13
+[ 4006.438016] usb 3-2: new full-speed USB device number 14 using xhci_hcd
+[ 4006.594255] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4006.594260] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4006.603686] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4006.603700] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4006.603738] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4006.605898] usb 3-2: USB disconnect, device number 14
+[ 4007.016957] usb 3-2: new full-speed USB device number 15 using xhci_hcd
+[ 4007.172733] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4007.172738] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4007.182704] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4007.182708] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4007.182743] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4007.184892] usb 3-2: USB disconnect, device number 15
+[ 4007.574554] usb 3-2: new full-speed USB device number 16 using xhci_hcd
+[ 4007.731711] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4007.731716] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4007.740707] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4007.740710] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4007.740740] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4007.742992] usb 3-2: USB disconnect, device number 16
+[ 4008.135937] usb 3-2: new full-speed USB device number 17 using xhci_hcd
+[ 4008.291693] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4008.291696] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4008.300727] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4008.300730] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4008.300764] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4008.302954] usb 3-2: USB disconnect, device number 17
+[ 4008.693947] usb 3-2: new full-speed USB device number 18 using xhci_hcd
+[ 4008.850694] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4008.850699] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4008.859747] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4008.859749] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4008.859778] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4008.862121] usb 3-2: USB disconnect, device number 18
+[ 4009.273537] usb 3-2: new full-speed USB device number 19 using xhci_hcd
+[ 4009.430709] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4009.430715] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4009.439713] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4009.439717] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4009.439771] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4009.447028] usb 3-2: USB disconnect, device number 19
+[ 4009.829928] usb 3-2: new full-speed USB device number 20 using xhci_hcd
+[ 4009.985719] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4009.985724] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4009.994733] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4009.994737] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4009.994767] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4009.996956] usb 3-2: USB disconnect, device number 20
+[ 4010.409907] usb 3-2: new full-speed USB device number 21 using xhci_hcd
+[ 4010.567325] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4010.567330] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4010.576725] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4010.576729] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4010.576797] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4010.578969] usb 3-2: USB disconnect, device number 21
+[ 4010.965907] usb 3-2: new full-speed USB device number 22 using xhci_hcd
+[ 4011.122031] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4011.122036] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4011.131726] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4011.131730] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4011.131769] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4011.133930] usb 3-2: USB disconnect, device number 22
+[ 4011.544947] usb 3-2: new full-speed USB device number 23 using xhci_hcd
+[ 4011.701754] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4011.701761] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4011.710744] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4011.710747] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4011.710798] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4011.712935] usb 3-2: USB disconnect, device number 23
+[ 4012.103939] usb 3-2: new full-speed USB device number 24 using xhci_hcd
+[ 4012.259729] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4012.259733] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4012.268725] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4012.268728] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4012.268776] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4012.270922] usb 3-2: USB disconnect, device number 24
+[ 4012.661922] usb 3-2: new full-speed USB device number 25 using xhci_hcd
+[ 4012.819727] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4012.819732] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4012.829733] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4012.829737] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4012.829780] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4012.831933] usb 3-2: USB disconnect, device number 25
+[ 4013.221909] usb 3-2: new full-speed USB device number 26 using xhci_hcd
+[ 4013.377708] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4013.377713] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4013.387728] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4013.387732] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4013.387765] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4013.390029] usb 3-2: USB disconnect, device number 26
+[ 4013.777872] usb 3-2: new full-speed USB device number 27 using xhci_hcd
+[ 4013.934738] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4013.934743] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4013.943709] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4013.943715] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4013.943745] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4013.945919] usb 3-2: USB disconnect, device number 27
+[ 4014.332885] usb 3-2: new full-speed USB device number 28 using xhci_hcd
+[ 4014.488707] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4014.488712] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4014.497728] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4014.497732] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4014.497807] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4014.499932] usb 3-2: USB disconnect, device number 28
+[ 4014.913875] usb 3-2: new full-speed USB device number 29 using xhci_hcd
+[ 4015.069739] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4015.069744] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4015.078711] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4015.078714] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4015.078741] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4015.080910] usb 3-2: USB disconnect, device number 29
+[ 4015.469860] usb 3-2: new full-speed USB device number 30 using xhci_hcd
+[ 4015.626707] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4015.626712] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4015.635726] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4015.635729] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4015.635773] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4015.637912] usb 3-2: USB disconnect, device number 30
+[ 4016.050861] usb 3-2: new full-speed USB device number 31 using xhci_hcd
+[ 4016.206761] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4016.206765] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4016.216137] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4016.216141] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4016.216186] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4016.217917] usb 3-2: USB disconnect, device number 31
+[ 4016.606852] usb 3-2: new full-speed USB device number 32 using xhci_hcd
+[ 4016.762718] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4016.762723] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4016.771716] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4016.771719] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4016.771750] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4016.773925] usb 3-2: USB disconnect, device number 32
+[ 4017.185848] usb 3-2: new full-speed USB device number 33 using xhci_hcd
+[ 4017.341724] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4017.341731] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4017.350766] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4017.350772] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4017.350811] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4017.352977] usb 3-2: USB disconnect, device number 33
+[ 4017.741837] usb 3-2: new full-speed USB device number 34 using xhci_hcd
+[ 4017.898742] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4017.898747] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4017.908767] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4017.908771] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4017.908802] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4017.910927] usb 3-2: USB disconnect, device number 34
+[ 4018.302830] usb 3-2: new full-speed USB device number 35 using xhci_hcd
+[ 4018.460723] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4018.460728] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4018.469807] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4018.469827] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4018.469884] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4018.472006] usb 3-2: USB disconnect, device number 35
+[ 4018.861840] usb 3-2: new full-speed USB device number 36 using xhci_hcd
+[ 4019.017744] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4019.017748] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4019.027858] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4019.027863] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4019.027912] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4019.030082] usb 3-2: USB disconnect, device number 36
+[ 4019.422861] usb 3-2: new full-speed USB device number 37 using xhci_hcd
+[ 4019.579736] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4019.579739] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4019.588769] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4019.588772] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4019.588813] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4019.591033] usb 3-2: USB disconnect, device number 37
+[ 4019.980812] usb 3-2: new full-speed USB device number 38 using xhci_hcd
+[ 4020.136747] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4020.136752] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4020.145758] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4020.145763] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4020.145808] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4020.147948] usb 3-2: USB disconnect, device number 38
+[ 4020.533858] usb 3-2: new full-speed USB device number 39 using xhci_hcd
+[ 4020.696756] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4020.696761] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4020.705772] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4020.705776] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4020.705891] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4020.709763] usb 3-2: USB disconnect, device number 39
+[ 4021.094801] usb 3-2: new full-speed USB device number 40 using xhci_hcd
+[ 4021.251754] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4021.251759] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4021.260748] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4021.260753] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4021.260806] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4021.262960] usb 3-2: USB disconnect, device number 40
+[ 4021.653848] usb 3-2: new full-speed USB device number 41 using xhci_hcd
+[ 4021.809754] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4021.809758] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4021.818830] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4021.818835] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4021.818906] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4021.821094] usb 3-2: USB disconnect, device number 41
+[ 4022.232799] usb 3-2: new full-speed USB device number 42 using xhci_hcd
+[ 4022.388763] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4022.388769] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4022.397810] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4022.397813] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4022.397870] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4022.400036] usb 3-2: USB disconnect, device number 42
+[ 4022.400361] xhci_hcd 0000:04:00.4: WARN Cannot submit Set TR Deq Ptr
+[ 4022.400368] xhci_hcd 0000:04:00.4: A Set TR Deq Ptr command is pending.
+[ 4022.789823] usb 3-2: new full-speed USB device number 43 using xhci_hcd
+[ 4022.945761] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4022.945774] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4022.954752] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4022.954756] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4022.954795] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4022.959204] usb 3-2: USB disconnect, device number 43
+[ 4023.367803] usb 3-2: new full-speed USB device number 44 using xhci_hcd
+[ 4023.523741] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4023.523746] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4023.532839] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4023.532844] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4023.532886] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4023.534970] usb 3-2: USB disconnect, device number 44
+[ 4023.925817] usb 3-2: new full-speed USB device number 45 using xhci_hcd
+[ 4024.082778] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4024.082783] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4024.091743] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4024.091745] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4024.091773] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4024.093920] usb 3-2: USB disconnect, device number 45
+[ 4024.485805] usb 3-2: new full-speed USB device number 46 using xhci_hcd
+[ 4024.643773] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4024.643781] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4024.652765] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4024.652770] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4024.652844] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4024.654942] usb 3-2: USB disconnect, device number 46
+[ 4025.044776] usb 3-2: new full-speed USB device number 47 using xhci_hcd
+[ 4025.203762] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4025.203765] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4025.212778] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4025.212783] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4025.212834] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4025.214987] usb 3-2: USB disconnect, device number 47
+[ 4025.604789] usb 3-2: new full-speed USB device number 48 using xhci_hcd
+[ 4025.763767] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4025.763771] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4025.772792] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4025.772796] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4025.772827] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4025.774984] usb 3-2: USB disconnect, device number 48
+[ 4026.164976] usb 3-2: new full-speed USB device number 49 using xhci_hcd
+[ 4026.322775] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4026.322780] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4026.331787] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4026.331791] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4026.331818] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4026.333986] usb 3-2: USB disconnect, device number 49
+[ 4026.724775] usb 3-2: new full-speed USB device number 50 using xhci_hcd
+[ 4026.882780] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4026.882785] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4026.891807] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4026.891812] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4026.891859] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4026.893970] usb 3-2: USB disconnect, device number 50
+[ 4027.285738] usb 3-2: new full-speed USB device number 51 using xhci_hcd
+[ 4027.443775] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4027.443779] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4027.452802] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4027.452807] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4027.452858] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4027.454967] usb 3-2: USB disconnect, device number 51
+[ 4027.845763] usb 3-2: new full-speed USB device number 52 using xhci_hcd
+[ 4028.003786] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4028.003791] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4028.012797] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4028.012803] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4028.012853] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4028.015011] usb 3-2: USB disconnect, device number 52
+[ 4028.405759] usb 3-2: new full-speed USB device number 53 using xhci_hcd
+[ 4028.563780] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4028.563784] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4028.572802] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4028.572805] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4028.572832] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4028.574975] usb 3-2: USB disconnect, device number 53
+[ 4028.967722] usb 3-2: new full-speed USB device number 54 using xhci_hcd
+[ 4029.125777] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4029.125782] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4029.134812] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4029.134817] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4029.134858] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4029.136987] usb 3-2: USB disconnect, device number 54
+[ 4029.524721] usb 3-2: new full-speed USB device number 55 using xhci_hcd
+[ 4029.682794] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4029.682799] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4029.691796] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4029.691800] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4029.691831] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4029.694096] usb 3-2: USB disconnect, device number 55
+[ 4030.085946] usb 3-2: new full-speed USB device number 56 using xhci_hcd
+[ 4030.243805] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4030.243810] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4030.252822] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4030.252826] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4030.252894] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4030.259121] usb 3-2: USB disconnect, device number 56
+[ 4030.647760] usb 3-2: new full-speed USB device number 57 using xhci_hcd
+[ 4030.807813] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4030.807818] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4030.816769] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4030.816774] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4030.816801] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4030.819020] usb 3-2: USB disconnect, device number 57
+[ 4031.206724] usb 3-2: new full-speed USB device number 58 using xhci_hcd
+[ 4031.365804] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4031.365808] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4031.374804] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4031.374808] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4031.374830] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4031.378546] usb 3-2: USB disconnect, device number 58
+[ 4031.765690] usb 3-2: new full-speed USB device number 59 using xhci_hcd
+[ 4031.923788] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4031.923792] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4031.932773] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4031.932779] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4031.932811] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4031.935020] usb 3-2: USB disconnect, device number 59
+[ 4032.325734] usb 3-2: new full-speed USB device number 60 using xhci_hcd
+[ 4032.483797] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4032.483802] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4032.492814] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4032.492820] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4032.492845] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4032.494992] usb 3-2: USB disconnect, device number 60
+[ 4032.884695] usb 3-2: new full-speed USB device number 61 using xhci_hcd
+[ 4033.042800] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4033.042806] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4033.051824] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4033.051828] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4033.051860] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4033.054004] usb 3-2: USB disconnect, device number 61
+[ 4033.446685] usb 3-2: new full-speed USB device number 62 using xhci_hcd
+[ 4033.604816] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4033.604821] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4033.613801] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4033.613805] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4033.613832] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4033.616017] usb 3-2: USB disconnect, device number 62
+[ 4034.006690] usb 3-2: new full-speed USB device number 63 using xhci_hcd
+[ 4034.163799] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4034.163809] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4034.172800] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4034.172804] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4034.172848] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4034.174979] usb 3-2: USB disconnect, device number 63
+[ 4034.567666] usb 3-2: new full-speed USB device number 64 using xhci_hcd
+[ 4034.724792] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4034.724795] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4034.733829] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4034.733832] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4034.733883] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4034.736014] usb 3-2: USB disconnect, device number 64
+[ 4035.126661] usb 3-2: new full-speed USB device number 65 using xhci_hcd
+[ 4035.285785] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4035.285788] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4035.294791] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4035.294794] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4035.294826] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4035.297010] usb 3-2: USB disconnect, device number 65
+[ 4035.685664] usb 3-2: new full-speed USB device number 66 using xhci_hcd
+[ 4035.844822] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4035.844826] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4035.853797] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4035.853800] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4035.853819] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4035.856004] usb 3-2: USB disconnect, device number 66
+[ 4036.246648] usb 3-2: new full-speed USB device number 67 using xhci_hcd
+[ 4036.403094] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4036.403097] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4036.412835] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4036.412840] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4036.412877] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4036.417259] usb 3-2: USB disconnect, device number 67
+[ 4036.808640] usb 3-2: new full-speed USB device number 68 using xhci_hcd
+[ 4036.964803] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4036.964806] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4036.973832] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4036.973834] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4036.973886] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4036.977140] usb 3-2: USB disconnect, device number 68
+[ 4037.365635] usb 3-2: new full-speed USB device number 69 using xhci_hcd
+[ 4037.521802] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4037.521805] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4037.530830] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4037.530833] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4037.530854] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4037.533590] usb 3-2: USB disconnect, device number 69
+[ 4037.948629] usb 3-2: new full-speed USB device number 70 using xhci_hcd
+[ 4038.105784] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4038.105788] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4038.114816] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4038.114820] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4038.114855] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4038.116988] usb 3-2: USB disconnect, device number 70
+[ 4038.531633] usb 3-2: new full-speed USB device number 71 using xhci_hcd
+[ 4038.687819] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4038.687823] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4038.696812] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4038.696816] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4038.696845] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4038.699109] usb 3-2: USB disconnect, device number 71
+[ 4039.114626] usb 3-2: new full-speed USB device number 72 using xhci_hcd
+[ 4039.270813] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4039.270816] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4039.279948] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4039.279952] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4039.280042] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4039.282071] usb 3-2: USB disconnect, device number 72
+[ 4039.671613] usb 3-2: new full-speed USB device number 73 using xhci_hcd
+[ 4039.826812] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4039.826815] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4039.835844] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4039.835847] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4039.835877] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4039.838522] usb 3-2: USB disconnect, device number 73
+[ 4040.230611] usb 3-2: new full-speed USB device number 74 using xhci_hcd
+[ 4040.385810] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4040.385813] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4040.394883] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4040.394887] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4040.394932] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4040.397195] usb 3-2: USB disconnect, device number 74
+[ 4040.808608] usb 3-2: new full-speed USB device number 75 using xhci_hcd
+[ 4040.963837] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4040.963841] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4040.972833] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4040.972836] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4040.972867] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4040.975262] usb 3-2: USB disconnect, device number 75
+[ 4041.364642] usb 3-2: new full-speed USB device number 76 using xhci_hcd
+[ 4041.519833] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4041.519838] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4041.528820] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4041.528824] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4041.528854] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4041.531015] usb 3-2: USB disconnect, device number 76
+[ 4041.943644] usb 3-2: new full-speed USB device number 77 using xhci_hcd
+[ 4042.099836] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4042.099841] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4042.108873] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4042.108876] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4042.108916] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4042.111162] usb 3-2: USB disconnect, device number 77
+[ 4042.500635] usb 3-2: new full-speed USB device number 78 using xhci_hcd
+[ 4042.655844] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4042.655849] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4042.664861] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4042.664865] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4042.664894] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4042.667055] usb 3-2: USB disconnect, device number 78
+[ 4043.054629] usb 3-2: new full-speed USB device number 79 using xhci_hcd
+[ 4043.210833] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4043.210838] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4043.220862] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4043.220868] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4043.220955] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4043.223054] usb 3-2: USB disconnect, device number 79
+[ 4043.612612] usb 3-2: new full-speed USB device number 80 using xhci_hcd
+[ 4043.767848] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4043.767852] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4043.776830] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4043.776833] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4043.776871] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4043.779038] usb 3-2: USB disconnect, device number 80
+[ 4044.164598] usb 3-2: new full-speed USB device number 81 using xhci_hcd
+[ 4044.319836] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4044.319841] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4044.328833] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4044.328836] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4044.328858] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4044.331041] usb 3-2: USB disconnect, device number 81
+[ 4044.743609] usb 3-2: new full-speed USB device number 82 using xhci_hcd
+[ 4044.899841] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4044.899846] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4044.908915] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4044.908919] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4044.908967] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4044.911092] usb 3-2: USB disconnect, device number 82
+[ 4045.300577] usb 3-2: new full-speed USB device number 83 using xhci_hcd
+[ 4045.455843] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4045.455848] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4045.464879] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4045.464884] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4045.464957] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4045.467060] usb 3-2: USB disconnect, device number 83
+[ 4045.879558] usb 3-2: new full-speed USB device number 84 using xhci_hcd
+[ 4046.034857] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4046.034862] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4046.043937] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4046.043941] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4046.043994] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4046.046070] usb 3-2: USB disconnect, device number 84
+[ 4046.436581] usb 3-2: new full-speed USB device number 85 using xhci_hcd
+[ 4046.591845] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4046.591850] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4046.600885] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4046.600890] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4046.600988] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4046.603065] usb 3-2: USB disconnect, device number 85
+[ 4046.988576] usb 3-2: new full-speed USB device number 86 using xhci_hcd
+[ 4047.134845] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4047.134849] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4047.144921] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4047.144924] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4047.144963] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4047.147070] usb 3-2: USB disconnect, device number 86
+[ 4047.532582] usb 3-2: new full-speed USB device number 87 using xhci_hcd
+[ 4047.687848] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4047.687853] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4047.696880] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4047.696884] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4047.696925] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4047.701282] usb 3-2: USB disconnect, device number 87
+[ 4048.111554] usb 3-2: new full-speed USB device number 88 using xhci_hcd
+[ 4048.266851] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4048.266856] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4048.275876] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4048.275880] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4048.275910] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4048.278075] usb 3-2: USB disconnect, device number 88
+[ 4048.668564] usb 3-2: new full-speed USB device number 89 using xhci_hcd
+[ 4048.823855] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4048.823860] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4048.832917] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4048.832921] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4048.832959] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4048.835136] usb 3-2: USB disconnect, device number 89
+[ 4049.248559] usb 3-2: new full-speed USB device number 90 using xhci_hcd
+[ 4049.403875] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4049.403880] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4049.412878] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4049.412882] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4049.412914] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4049.418391] usb 3-2: USB disconnect, device number 90
+[ 4049.804566] usb 3-2: new full-speed USB device number 91 using xhci_hcd
+[ 4049.959897] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4049.959901] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4049.968864] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4049.968869] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4049.968908] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4049.971047] usb 3-2: USB disconnect, device number 91
+[ 4050.383719] usb 3-2: new full-speed USB device number 92 using xhci_hcd
+[ 4050.539879] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4050.539885] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4050.548870] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4050.548874] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4050.548910] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4050.551085] usb 3-2: USB disconnect, device number 92
+[ 4050.940549] usb 3-2: new full-speed USB device number 93 using xhci_hcd
+[ 4051.095868] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4051.095872] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4051.104873] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4051.104878] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4051.104942] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4051.107081] usb 3-2: USB disconnect, device number 93
+[ 4051.519525] usb 3-2: new full-speed USB device number 94 using xhci_hcd
+[ 4051.674854] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4051.674858] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4051.683881] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4051.683884] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4051.683940] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4051.686087] usb 3-2: USB disconnect, device number 94
+[ 4052.076533] usb 3-2: new full-speed USB device number 95 using xhci_hcd
+[ 4052.232876] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4052.232881] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4052.241880] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4052.241883] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4052.241918] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4052.244116] usb 3-2: USB disconnect, device number 95
+[ 4052.655525] usb 3-2: new full-speed USB device number 96 using xhci_hcd
+[ 4052.810882] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4052.810887] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4052.819909] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4052.819913] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4052.819986] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4052.822049] usb 3-2: USB disconnect, device number 96
+[ 4053.212500] usb 3-2: new full-speed USB device number 97 using xhci_hcd
+[ 4053.367882] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4053.367887] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4053.376893] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4053.376896] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4053.376947] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4053.379088] usb 3-2: USB disconnect, device number 97
+[ 4053.766517] usb 3-2: new full-speed USB device number 98 using xhci_hcd
+[ 4053.921863] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4053.921867] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4053.930894] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4053.930897] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4053.930931] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4053.933074] usb 3-2: USB disconnect, device number 98
+[ 4054.343520] usb 3-2: new full-speed USB device number 99 using xhci_hcd
+[ 4054.498878] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4054.498882] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4054.507895] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4054.507898] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4054.507934] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4054.511002] usb 3-2: USB disconnect, device number 99
+[ 4054.533241] audit: type=1100 audit(1610824105.957:90): pid=32195 uid=1000 auid=1000 ses=1 msg='op=PAM:authentication grantors=pam_faillock,pam_permit,pam_faillock acct="recompiler" exe="/usr/bin/sudo" hostname=? addr=? terminal=/dev/pts/0 res=success'
+[ 4054.535144] audit: type=1101 audit(1610824105.959:91): pid=32195 uid=1000 auid=1000 ses=1 msg='op=PAM:accounting grantors=pam_unix,pam_permit,pam_time acct="recompiler" exe="/usr/bin/sudo" hostname=? addr=? terminal=/dev/pts/0 res=success'
+[ 4054.900514] usb 3-2: new full-speed USB device number 100 using xhci_hcd
+[ 4055.055878] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4055.055883] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4055.064887] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4055.064890] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4055.064914] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4055.067101] usb 3-2: USB disconnect, device number 100
+[ 4055.479456] usb 3-2: new full-speed USB device number 101 using xhci_hcd
+[ 4055.634863] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4055.634868] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4055.643878] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4055.643882] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4055.643916] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4055.646069] usb 3-2: USB disconnect, device number 101
+[ 4056.036487] usb 3-2: new full-speed USB device number 102 using xhci_hcd
+[ 4056.191924] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4056.191928] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4056.200913] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4056.200916] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4056.200973] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4056.203082] usb 3-2: USB disconnect, device number 102
+[ 4056.616483] usb 3-2: new full-speed USB device number 103 using xhci_hcd
+[ 4056.771876] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4056.771880] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4056.780917] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4056.780920] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4056.780944] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4056.783067] usb 3-2: USB disconnect, device number 103
+[ 4056.927848] audit: type=1101 audit(1610824108.352:92): pid=32266 uid=1000 auid=1000 ses=1 msg='op=PAM:accounting grantors=pam_unix,pam_permit,pam_time acct="recompiler" exe="/usr/bin/sudo" hostname=? addr=? terminal=/dev/pts/0 res=success'
+[ 4057.172480] usb 3-2: new full-speed USB device number 104 using xhci_hcd
+[ 4057.327882] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4057.327886] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4057.336898] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4057.336901] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4057.336937] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4057.339752] usb 3-2: USB disconnect, device number 104
+[ 4057.751482] usb 3-2: new full-speed USB device number 105 using xhci_hcd
+[ 4057.906887] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4057.906892] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4057.915953] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4057.915957] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4057.915997] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4057.919056] usb 3-2: USB disconnect, device number 105
+[ 4058.308465] usb 3-2: new full-speed USB device number 106 using xhci_hcd
+[ 4058.463893] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4058.463898] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4058.472924] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4058.472929] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4058.472979] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4058.476671] usb 3-2: USB disconnect, device number 106
+[ 4058.861439] usb 3-2: new full-speed USB device number 107 using xhci_hcd
+[ 4058.999134] audit: type=1101 audit(1610824110.423:93): pid=32288 uid=1000 auid=1000 ses=1 msg='op=PAM:accounting grantors=pam_unix,pam_permit,pam_time acct="recompiler" exe="/usr/bin/sudo" hostname=? addr=? terminal=/dev/pts/0 res=success'
+[ 4059.016910] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4059.016914] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4059.025926] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4059.025930] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4059.025990] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4059.028150] usb 3-2: USB disconnect, device number 107
+[ 4059.439468] usb 3-2: new full-speed USB device number 108 using xhci_hcd
+[ 4059.594911] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4059.594916] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4059.603920] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4059.603924] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4059.603969] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4059.606108] usb 3-2: USB disconnect, device number 108
+[ 4059.996447] usb 3-2: new full-speed USB device number 109 using xhci_hcd
+[ 4060.151900] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4060.151905] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4060.160897] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4060.160902] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4060.160948] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4060.165287] usb 3-2: USB disconnect, device number 109
+[ 4060.480689] audit: type=1131 audit(1610824111.905:94): pid=1 uid=0 auid=4294967295 ses=4294967295 msg='unit=systemd-hostnamed comm="systemd" exe="/usr/lib/systemd/systemd" hostname=? addr=? terminal=? res=success'
+[ 4060.542660] audit: type=1334 audit(1610824111.967:95): prog-id=23 op=UNLOAD
+[ 4060.542666] audit: type=1334 audit(1610824111.967:96): prog-id=22 op=UNLOAD
+[ 4060.575449] usb 3-2: new full-speed USB device number 110 using xhci_hcd
+[ 4060.730911] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4060.730922] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4060.739895] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4060.739899] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4060.739929] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4060.744273] usb 3-2: USB disconnect, device number 110
+[ 4061.132445] usb 3-2: new full-speed USB device number 111 using xhci_hcd
+[ 4061.287863] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4061.287868] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4061.296937] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4061.296942] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4061.297006] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4061.299257] usb 3-2: USB disconnect, device number 111
+[ 4061.711412] usb 3-2: new full-speed USB device number 112 using xhci_hcd
+[ 4061.866904] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4061.866909] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4061.875936] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4061.875940] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4061.876017] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4061.883989] usb 3-2: USB disconnect, device number 112
+[ 4062.268432] usb 3-2: new full-speed USB device number 113 using xhci_hcd
+[ 4062.426872] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4062.426877] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4062.435927] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4062.435932] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4062.435966] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4062.438419] usb 3-2: USB disconnect, device number 113
+[ 4062.828428] usb 3-2: new full-speed USB device number 114 using xhci_hcd
+[ 4062.983908] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4062.983913] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4062.992909] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4062.992913] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4062.992945] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4062.995679] usb 3-2: USB disconnect, device number 114
+[ 4063.407425] usb 3-2: new full-speed USB device number 115 using xhci_hcd
+[ 4063.563913] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4063.563918] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4063.572934] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4063.572940] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4063.572970] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4063.575268] usb 3-2: USB disconnect, device number 115
+[ 4063.964416] usb 3-2: new full-speed USB device number 116 using xhci_hcd
+[ 4064.120907] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4064.120911] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4064.129927] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4064.129931] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4064.129965] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4064.133233] usb 3-2: USB disconnect, device number 116
+[ 4064.544592] usb 3-2: new full-speed USB device number 117 using xhci_hcd
+[ 4064.699904] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4064.699908] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4064.708910] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4064.708913] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4064.708948] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4064.711817] usb 3-2: USB disconnect, device number 117
+[ 4065.100395] usb 3-2: new full-speed USB device number 118 using xhci_hcd
+[ 4065.255906] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4065.255910] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4065.264923] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4065.264927] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4065.265021] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4065.267115] usb 3-2: USB disconnect, device number 118
+[ 4065.680354] usb 3-2: new full-speed USB device number 119 using xhci_hcd
+[ 4065.835906] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4065.835910] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4065.844911] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4065.844915] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4065.844940] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4065.847142] usb 3-2: USB disconnect, device number 119
+[ 4066.237569] usb 3-2: new full-speed USB device number 120 using xhci_hcd
+[ 4066.392908] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4066.392911] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4066.401919] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4066.401923] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4066.401977] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4066.404106] usb 3-2: USB disconnect, device number 120
+[ 4066.816385] usb 3-2: new full-speed USB device number 121 using xhci_hcd
+[ 4066.972911] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4066.972915] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4066.981969] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4066.981972] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4066.982027] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4066.984176] usb 3-2: USB disconnect, device number 121
+[ 4067.372381] usb 3-2: new full-speed USB device number 122 using xhci_hcd
+[ 4067.528927] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4067.528931] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4067.537911] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4067.537915] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4067.537942] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4067.540830] usb 3-2: USB disconnect, device number 122
+[ 4067.952373] usb 3-2: new full-speed USB device number 123 using xhci_hcd
+[ 4068.107913] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4068.107917] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4068.116968] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4068.116971] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4068.117030] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4068.120333] usb 3-2: USB disconnect, device number 123
+[ 4068.508335] usb 3-2: new full-speed USB device number 124 using xhci_hcd
+[ 4068.512280] audit: type=1101 audit(1610824119.936:97): pid=32369 uid=1000 auid=1000 ses=1 msg='op=PAM:accounting grantors=pam_unix,pam_permit,pam_time acct="recompiler" exe="/usr/bin/sudo" hostname=? addr=? terminal=/dev/pts/0 res=success'
+[ 4068.512865] audit: type=1110 audit(1610824119.937:98): pid=32369 uid=1000 auid=1000 ses=1 msg='op=PAM:setcred grantors=pam_faillock,pam_permit,pam_env,pam_faillock acct="root" exe="/usr/bin/sudo" hostname=? addr=? terminal=/dev/pts/0 res=success'
+[ 4068.513181] audit: type=1105 audit(1610824119.937:99): pid=32369 uid=1000 auid=1000 ses=1 msg='op=PAM:session_open grantors=pam_limits,pam_unix,pam_permit acct="root" exe="/usr/bin/sudo" hostname=? addr=? terminal=/dev/pts/0 res=success'
+[ 4068.524602] audit: type=1101 audit(1610824119.949:100): pid=32372 uid=0 auid=1000 ses=1 msg='op=PAM:accounting grantors=pam_unix,pam_permit,pam_time acct="root" exe="/usr/bin/sudo" hostname=? addr=? terminal=/dev/pts/0 res=success'
+[ 4068.524805] audit: type=1110 audit(1610824119.949:101): pid=32372 uid=0 auid=1000 ses=1 msg='op=PAM:setcred grantors=pam_faillock,pam_permit,pam_env,pam_faillock acct="root" exe="/usr/bin/sudo" hostname=? addr=? terminal=/dev/pts/0 res=success'
+[ 4068.524937] audit: type=1105 audit(1610824119.949:102): pid=32372 uid=0 auid=1000 ses=1 msg='op=PAM:session_open grantors=pam_limits,pam_unix,pam_permit acct="root" exe="/usr/bin/sudo" hostname=? addr=? terminal=/dev/pts/0 res=success'
+[ 4068.663935] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4068.663939] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4068.672944] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4068.672947] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4068.672986] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4068.680045] usb 3-2: USB disconnect, device number 124
+[ 4069.087427] usb 3-2: new full-speed USB device number 125 using xhci_hcd
+[ 4069.243184] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4069.243189] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4069.253941] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4069.253946] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4069.253980] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4069.256659] usb 3-2: USB disconnect, device number 125
+[ 4069.644344] usb 3-2: new full-speed USB device number 126 using xhci_hcd
+[ 4069.799942] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4069.799947] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4069.808924] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4069.808929] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4069.808964] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4069.811181] usb 3-2: USB disconnect, device number 126
+[ 4069.942510] audit: type=1106 audit(1610824121.367:103): pid=32372 uid=0 auid=1000 ses=1 msg='op=PAM:session_close grantors=pam_limits,pam_unix,pam_permit acct="root" exe="/usr/bin/sudo" hostname=? addr=? terminal=/dev/pts/0 res=success'
+[ 4069.942625] audit: type=1104 audit(1610824121.367:104): pid=32372 uid=0 auid=1000 ses=1 msg='op=PAM:setcred grantors=pam_faillock,pam_permit,pam_env,pam_faillock acct="root" exe="/usr/bin/sudo" hostname=? addr=? terminal=/dev/pts/0 res=success'
+[ 4070.198313] usb 3-2: new full-speed USB device number 127 using xhci_hcd
+[ 4070.353896] usb 3-2: New USB device found, idVendor=8087, idProduct=0032, bcdDevice= 0.00
+[ 4070.353900] usb 3-2: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[ 4070.362956] Bluetooth: hci0: Reading Intel version information failed (-22)
+[ 4070.362960] Bluetooth: hci0: Intel Read version failed (-22)
+[ 4070.362985] Bluetooth: hci0: Intel reset sent to retry FW download
+[ 4070.365268] usb 3-2: USB disconnect, device number 127

@@ -1,0 +1,69 @@
+00:00.0 Host bridge: Advanced Micro Devices, Inc. [AMD] Raven/Raven2 Root Complex
+	Subsystem: Lenovo Device 380b
+00:00.2 IOMMU: Advanced Micro Devices, Inc. [AMD] Raven/Raven2 IOMMU
+	Subsystem: Lenovo Device 380a
+00:01.0 Host bridge: Advanced Micro Devices, Inc. [AMD] Family 17h (Models 00h-1fh) PCIe Dummy Host Bridge
+00:01.2 PCI bridge: Advanced Micro Devices, Inc. [AMD] Raven/Raven2 PCIe GPP Bridge [6:0]
+	Kernel driver in use: pcieport
+00:01.3 PCI bridge: Advanced Micro Devices, Inc. [AMD] Raven/Raven2 PCIe GPP Bridge [6:0]
+	Kernel driver in use: pcieport
+00:01.7 PCI bridge: Advanced Micro Devices, Inc. [AMD] Raven/Raven2 PCIe GPP Bridge [6:0]
+	Kernel driver in use: pcieport
+00:08.0 Host bridge: Advanced Micro Devices, Inc. [AMD] Family 17h (Models 00h-1fh) PCIe Dummy Host Bridge
+00:08.1 PCI bridge: Advanced Micro Devices, Inc. [AMD] Raven/Raven2 Internal PCIe GPP Bridge 0 to Bus A
+	Kernel driver in use: pcieport
+00:14.0 SMBus: Advanced Micro Devices, Inc. [AMD] FCH SMBus Controller (rev 61)
+	Subsystem: Lenovo Device 381b
+	Kernel driver in use: piix4_smbus
+	Kernel modules: i2c_piix4, sp5100_tco
+00:14.3 ISA bridge: Advanced Micro Devices, Inc. [AMD] FCH LPC Bridge (rev 51)
+	Subsystem: Lenovo Device 381c
+00:18.0 Host bridge: Advanced Micro Devices, Inc. [AMD] Raven/Raven2 Device 24: Function 0
+00:18.1 Host bridge: Advanced Micro Devices, Inc. [AMD] Raven/Raven2 Device 24: Function 1
+00:18.2 Host bridge: Advanced Micro Devices, Inc. [AMD] Raven/Raven2 Device 24: Function 2
+00:18.3 Host bridge: Advanced Micro Devices, Inc. [AMD] Raven/Raven2 Device 24: Function 3
+	Kernel driver in use: k10temp
+	Kernel modules: k10temp
+00:18.4 Host bridge: Advanced Micro Devices, Inc. [AMD] Raven/Raven2 Device 24: Function 4
+00:18.5 Host bridge: Advanced Micro Devices, Inc. [AMD] Raven/Raven2 Device 24: Function 5
+00:18.6 Host bridge: Advanced Micro Devices, Inc. [AMD] Raven/Raven2 Device 24: Function 6
+00:18.7 Host bridge: Advanced Micro Devices, Inc. [AMD] Raven/Raven2 Device 24: Function 7
+01:00.0 SD Host controller: O2 Micro, Inc. SD/MMC Card Reader Controller (rev 01)
+	Subsystem: Lenovo Device 3824
+	Kernel driver in use: sdhci-pci
+	Kernel modules: sdhci_pci
+02:00.0 Network controller: Intel Corporation Device 2725 (rev 1a)
+	Subsystem: Intel Corporation Device 0024
+	Kernel driver in use: iwlwifi
+	Kernel modules: iwlwifi
+03:00.0 Non-Volatile memory controller: Samsung Electronics Co Ltd NVMe SSD Controller SM981/PM981/PM983
+	DeviceName: Broadcom 5762
+	Subsystem: Samsung Electronics Co Ltd Device a801
+	Kernel driver in use: nvme
+04:00.0 VGA compatible controller: Advanced Micro Devices, Inc. [AMD/ATI] Picasso (rev c1)
+	Subsystem: Lenovo Device 3801
+	Kernel driver in use: amdgpu
+	Kernel modules: amdgpu
+04:00.1 Audio device: Advanced Micro Devices, Inc. [AMD/ATI] Raven/Raven2/Fenghuang HDMI/DP Audio Controller
+	Subsystem: Lenovo Device 380d
+	Kernel driver in use: snd_hda_intel
+	Kernel modules: snd_hda_intel
+04:00.2 Encryption controller: Advanced Micro Devices, Inc. [AMD] Family 17h (Models 10h-1fh) Platform Security Processor
+	Subsystem: Lenovo Device 380f
+	Kernel driver in use: ccp
+	Kernel modules: ccp
+04:00.3 USB controller: Advanced Micro Devices, Inc. [AMD] Raven USB 3.1
+	Subsystem: Lenovo Device 3810
+	Kernel driver in use: xhci_hcd
+	Kernel modules: xhci_pci
+04:00.4 USB controller: Advanced Micro Devices, Inc. [AMD] Raven USB 3.1
+	Subsystem: Lenovo Device 3811
+	Kernel driver in use: xhci_hcd
+	Kernel modules: xhci_pci
+04:00.5 Multimedia controller: Advanced Micro Devices, Inc. [AMD] Raven/Raven2/FireFlight/Renoir Audio Processor
+	Subsystem: Lenovo Device 3812
+	Kernel modules: snd_pci_acp3x, snd_rn_pci_acp3x
+04:00.6 Audio device: Advanced Micro Devices, Inc. [AMD] Family 17h (Models 10h-1fh) HD Audio Controller
+	Subsystem: Lenovo Device 3815
+	Kernel driver in use: snd_hda_intel
+	Kernel modules: snd_hda_intel
