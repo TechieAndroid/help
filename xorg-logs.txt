@@ -1,0 +1,8 @@
+/home/recompiler/.local/share/xorg/Xorg.0.log
+/home/recompiler/.local/share/xorg/Xorg.0.log.old
+/home/recompiler/.local/share/xorg/Xorg.0.log
+/home/recompiler/.local/share/xorg/Xorg.0.log.old
+/home/recompiler/help/xorg-logs.txt
+/home/recompiler/.local/share/xorg/Xorg.0.log
+/home/recompiler/.local/share/xorg/Xorg.0.log.old
+/home/recompiler/help/xorg-logs.txt

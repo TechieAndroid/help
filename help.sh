@@ -3,12 +3,12 @@
 #update index and search for xorg logs
 sudo updatedb
 printf "Xorg.log files"
-locate log | grep -i xorg
+locate log | grep -i xorg >> xorg-logs.txt
 
 printf "\n"
 
 #create log files for relevant system commands
-dmesg >> dmesg.log
+sudo dmesg >> dmesg.log
 lsmod >> lsmod.log
 lspci -k >> lspci.log
 tree /var/log/ >> varlog.txt
@@ -31,6 +31,10 @@ printf "\nBattery Info" && tree /sys/class/power_supply/ && printf "\n"
 printf "
 use man -k query to search man database\n
 tree dir to get an easy-to-read dir listing\n\n"
+
+#xorg logs location
+printf "Here's where your xorg logs are located:"
+cat xorg-logs.txt
 
 #print working dir and list contents
 printf "\nYou are here\n" && pwd && printf "\n" && ls -lahS && printf "\n" && tree && printf "\n"
